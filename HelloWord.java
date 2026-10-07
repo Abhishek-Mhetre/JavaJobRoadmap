@@ -1,0 +1,12 @@
+package Day01;
+
+public class HelloWord {
+
+	 
+	    public static void main(String[] args) {
+	        System.out.println("Hello, World!");
+	        System.out.println("I am starting my Java Full-Stack journey.");
+	    }
+	}
+	
+
